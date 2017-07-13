@@ -1,0 +1,2 @@
+# puppetrepo
+Puppet Repository
